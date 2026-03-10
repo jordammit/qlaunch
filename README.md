@@ -17,9 +17,9 @@ not required, I would love to hear from you at phrosty@gmail.com if you use it.
 
 Links
 --------------------
-Homepage - http://dev.int64.org/qlaunch.html
-GameStat Homepage - http://dev.int64.org/gamestat.html
-Bug Reports - http://sourceforge.net/tracker/?group_id=112954&atid=663681
+Homepage - http://dev.int64.org/qlaunch.html  
+GameStat Homepage - http://dev.int64.org/gamestat.html  
+Bug Reports - http://sourceforge.net/tracker/?group_id=112954&atid=663681  
 
 Contact
 --------------------
